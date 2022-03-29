@@ -1,2 +1,2 @@
-https://feadorman.github.io/rsschool-cv/cv
+https://feadorman.github.io/
 
